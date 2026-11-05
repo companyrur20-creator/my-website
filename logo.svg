@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Логотип «Северный Уралец»: рулонная штора (вал, ткань, нижняя планка, цепочка) -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <!-- фон: лесной зелёный, скруглённый квадрат -->
+  <rect x="1" y="1" width="38" height="38" rx="9" fill="#2e5c40"/>
+  <!-- вал (карниз) -->
+  <rect x="8" y="9" width="24" height="5" rx="1.5" fill="#f6faf5"/>
+  <!-- полотно ткани -->
+  <path d="M10 14h20v12c0 1.2-1 2-2.2 2H12.2C11 28 10 27.2 10 26V14z" fill="#f6faf5" opacity="0.35"/>
+  <!-- блик верхней части полотна -->
+  <rect x="10" y="14" width="20" height="3.2" fill="#f6faf5" opacity="0.7"/>
+  <!-- нижняя планка -->
+  <rect x="9" y="26" width="22" height="3.5" rx="1.2" fill="#f6faf5"/>
+  <!-- цепочка управления -->
+  <path d="M29 29.5v3.5" stroke="#f6faf5" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- кисточка/фиксатор цепочки (терракота) -->
+  <circle cx="29" cy="34.2" r="1.5" fill="#c2653d"/>
+</svg>
