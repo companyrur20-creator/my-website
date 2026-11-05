@@ -7,9 +7,9 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/hero-1.webp</image:loc>
-      <image:title>Рулонные шторы на заказ в Тюмени — «Северный Уралец»</image:title>
-      <image:caption>Собственное производство, бесплатный замер, монтаж за 1 день</image:caption>
+      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/hero-3.webp</image:loc>
+      <image:title>Кассетная «Mini» для ПВХ — рулонные шторы «Северный Уралец»</image:title>
+      <image:caption>Компактная система для узких створок</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/hero-4.webp</image:loc>
@@ -17,14 +17,19 @@
       <image:caption>Управление с пульта, со смартфона и голосом</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/hero-3.webp</image:loc>
-      <image:title>Кассетная «Mini» для ПВХ — рулонные шторы «Северный Уралец»</image:title>
-      <image:caption>Компактная система для узких створок</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/hero-2.webp</image:loc>
       <image:title>День-ночь «Классик» — рулонные шторы «Северный Уралец»</image:title>
       <image:caption>Регулируемое освещение одним движением</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/hero-1.webp</image:loc>
+      <image:title>Рулонные шторы на заказ в Тюмени — «Северный Уралец»</image:title>
+      <image:caption>Собственное производство, бесплатный замер, монтаж за 1 день</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/install-2.webp</image:loc>
+      <image:title>Установка рулонных штор</image:title>
+      <image:caption>Аккуратный монтаж за 1 день</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/install-1.webp</image:loc>
@@ -37,19 +42,9 @@
       <image:caption>Аккуратный монтаж за 1 день</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/install-2.webp</image:loc>
-      <image:title>Установка рулонных штор</image:title>
-      <image:caption>Аккуратный монтаж за 1 день</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/office-2.webp</image:loc>
-      <image:title>Кассетная «Uni» 25 мм — рулонные шторы «Северный Уралец»</image:title>
-      <image:caption>Аккуратный короб и монтаж на створку ПВХ</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/office-4.webp</image:loc>
-      <image:title>Тканевая «Защип Деко» — рулонные шторы «Северный Уралец»</image:title>
-      <image:caption>Фестонные защипы — как у портьер</image:caption>
+      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/office-5.webp</image:loc>
+      <image:title>Рулонные шторы — Кассетные (Uni, Mini)</image:title>
+      <image:caption>Кассетные (Uni, Mini)</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/office-1.webp</image:loc>
@@ -57,9 +52,14 @@
       <image:caption>Решение для рабочих пространств</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/office-5.webp</image:loc>
-      <image:title>Рулонные шторы — Кассетные (Uni, Mini)</image:title>
-      <image:caption>Кассетные (Uni, Mini)</image:caption>
+      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/office-4.webp</image:loc>
+      <image:title>Тканевая «Защип Деко» — рулонные шторы «Северный Уралец»</image:title>
+      <image:caption>Фестонные защипы — как у портьер</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/office-2.webp</image:loc>
+      <image:title>Кассетная «Uni» 25 мм — рулонные шторы «Северный Уралец»</image:title>
+      <image:caption>Аккуратный короб и монтаж на створку ПВХ</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/office-3.webp</image:loc>
@@ -119,6 +119,11 @@
       <image:caption>Натуральные материалы, каталог Тюмень</image:caption>
     </image:image>
     <image:image>
+      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/fabrics-2.webp</image:loc>
+      <image:title>Рулонные шторы — Тканевые</image:title>
+      <image:caption>Тканевые</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/fabrics-4.webp</image:loc>
       <image:title>Ткани для рулонных штор</image:title>
       <image:caption>Бесплатный подбор образцов на дому</image:caption>
@@ -129,19 +134,14 @@
       <image:caption>Бесплатный подбор образцов на дому</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/fabrics-3.webp</image:loc>
-      <image:title>Тканевая «Скрин 5%» — рулонные шторы «Северный Уралец»</image:title>
-      <image:caption>Свет проходит — блики и жара нет</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/fabrics-2.webp</image:loc>
-      <image:title>Рулонные шторы — Тканевые</image:title>
-      <image:caption>Тканевые</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/fabrics-5.webp</image:loc>
       <image:title>Ткани для рулонных штор</image:title>
       <image:caption>Бесплатный подбор образцов на дому</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xn--72-6kc3bemgo1a.xn--p1ai/images/fabrics-3.webp</image:loc>
+      <image:title>Тканевая «Скрин 5%» — рулонные шторы «Северный Уралец»</image:title>
+      <image:caption>Свет проходит — блики и жара нет</image:caption>
     </image:image>
   </url>
   <url>
